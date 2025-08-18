@@ -22,6 +22,7 @@ const hundreds = 1000000
 // console.log(Math.abs(-4));
 // console.log(Math.round(4.3)); //round off
 // console.log(Math.ceil(4.3)); //round off
+// console.log(Math.floor(4.3)); //round off
 // console.log(Math.min(4, 3, 6, 8)); 
 // console.log(Math.max(4, 3, 6, 8)); 
 console.log(Math.random()); 
