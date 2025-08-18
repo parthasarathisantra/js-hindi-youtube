@@ -1,1 +1,1 @@
-console.log(gameName.split('-'));
+ let myDate = new Date()
