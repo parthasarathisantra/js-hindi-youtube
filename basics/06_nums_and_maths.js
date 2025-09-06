@@ -1,12 +1,14 @@
 const score = 400
-// console.log(score);
+console.log(score);
+const dip = new Number(50)
+console.log(dip);
 
 const balance = new Number(100)
-// console.log(balance);
+console.log(balance);
 
-// console.log(balance.toString());
-// console.log(balance.toString().length);
-// console.log(balance.toFixed(2));
+console.log(balance.toString());
+console.log(balance.toString().length);
+console.log(balance.toFixed(2));
 
 const otherNumber = 123.8966
 
@@ -18,13 +20,13 @@ const hundreds = 1000000
 
 // Maths----------------
 
-// console.log(Math);
-// console.log(Math.abs(-4));
-// console.log(Math.round(4.3)); //round off
-// console.log(Math.ceil(4.3)); //round off
-// console.log(Math.floor(4.3)); //round off
-// console.log(Math.min(4, 3, 6, 8)); 
-// console.log(Math.max(4, 3, 6, 8)); 
+console.log(Math);
+console.log(Math.abs(-4));
+console.log(Math.round(4.3)); //round off
+console.log(Math.ceil(4.3)); //round off
+console.log(Math.floor(4.3)); //round off
+console.log(Math.min(4, 3, 6, 8)); 
+console.log(Math.max(4, 3, 6, 8)); 
 console.log(Math.random()); 
 console.log((Math.random()*10) + 1); 
 console.log(Math.floor(Math.random()*10) + 1); 

@@ -10,7 +10,7 @@ console.log("H");
 
 }
 
-// sayMyName()
+sayMyName()
 
 // function addTwoNumbers(number1, number2){
 //     console.log(number1 + number2);
@@ -22,7 +22,7 @@ function addTwoNumbers(number1, number2){
     
 }
 const result = addTwoNumbers(2,3)
-// console.log("Result: ", result);
+console.log("Result: ", result);
 
 
 // addTwoNumbers(2,3)
@@ -71,7 +71,7 @@ function returnSecondvalue(getArray){
     return getArray[1]
 }
 
-// console.log(returnSecondvalue(myNewArray));
+console.log(returnSecondvalue(myNewArray));
  console.log(returnSecondvalue([200, 400, 500, 1000]));
 
 

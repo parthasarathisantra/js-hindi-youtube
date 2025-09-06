@@ -36,6 +36,7 @@ const myFunction = function(){
     console.log("hello world");
     
 }
+myFunction()
 
 console.log(typeof scoreValue);
 
@@ -44,7 +45,7 @@ console.log(typeof scoreValue);
 //stack(primitive)---> change, heap(non-primitive)---> not change
 
 let myYoutubeName = "hiteshchaudharydotcom"
- let anotherName = myYoutubeName
+ let anotherName = "myYoutubeName"
  anotherName = "chaiaurcode"
  console.log(myYoutubeName);
  console.log(anotherName);

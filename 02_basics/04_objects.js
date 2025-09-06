@@ -54,7 +54,7 @@ const course = {
     price: "999",
     courceInstructur: "hitesh"
 }
-// course.courceInstructur
+course.courceInstructur
 // destructure the object
 const {courceInstructur: instructor} = course
 // console.log(courceInstructur);

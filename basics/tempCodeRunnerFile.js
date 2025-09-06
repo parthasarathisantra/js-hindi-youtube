@@ -1,1 +1,1 @@
- let myDate = new Date()
+ anotherName = "chaiaurcode"
